@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b02b6e07-12ee-4e15-91f4-91cdcd67b429" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/books/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/books/LibraryCatalog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/emailValidation/EmailValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stringutils/StringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/bookAssertions/BookTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/emailAssertions/TestEmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stringAssertions/StringTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2aPAhPfMxhqIlXprcX0R7OlFTgk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "JUnit.BookTests.test_books.executor": "Run",
+    "JUnit.StringAssertions.testConcatenation.executor": "Run",
+    "JUnit.StringAssertions.testOccurences.executor": "Run",
+    "JUnit.StringAssertions.testPalindrome.executor": "Run",
+    "JUnit.StringAssertions.testReverse.executor": "Run",
+    "JUnit.StringTests.executor": "Run",
+    "JUnit.TestEmail.checkEmail.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.UnitTesting [deploy].executor": "Run",
+    "Maven.UnitTesting [site].executor": "Run",
+    "Maven.UnitTesting [test].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.StringTests">
+    <configuration name="BookTests.test_books" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bookAssertions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bookAssertions" />
+      <option name="MAIN_CLASS_NAME" value="bookAssertions.BookTests" />
+      <option name="METHOD_NAME" value="test_books" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stringAssertions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stringAssertions" />
+      <option name="MAIN_CLASS_NAME" value="stringAssertions.StringTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTests.testOccurences" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stringAssertions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stringAssertions" />
+      <option name="MAIN_CLASS_NAME" value="stringAssertions.StringTests" />
+      <option name="METHOD_NAME" value="testOccurences" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTests.testPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stringAssertions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stringAssertions" />
+      <option name="MAIN_CLASS_NAME" value="stringAssertions.StringTests" />
+      <option name="METHOD_NAME" value="testPalindrome" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestEmail.checkEmail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="emailAssertions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="emailAssertions" />
+      <option name="MAIN_CLASS_NAME" value="emailAssertions.TestEmail" />
+      <option name="METHOD_NAME" value="checkEmail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StringTests" />
+        <item itemvalue="JUnit.TestEmail.checkEmail" />
+        <item itemvalue="JUnit.BookTests.test_books" />
+        <item itemvalue="JUnit.StringTests.testOccurences" />
+        <item itemvalue="JUnit.StringTests.testPalindrome" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b02b6e07-12ee-4e15-91f4-91cdcd67b429" name="Changes" comment="" />
+      <created>1704209966428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704209966428</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
