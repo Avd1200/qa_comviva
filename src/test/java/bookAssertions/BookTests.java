@@ -16,10 +16,13 @@ public class BookTests {
         LibraryCatalog lc = new LibraryCatalog();
         lc.addBook(b1);
         lc.addBook(b2);
+
         lc.borrowBook("Spare");
+        // To check whether given book is available to borrow
         assertFalse(b2.isAvailable());
+        // To check whether given book can be returned or not(it was borrowed previously)
         lc.returnBook("Spare");
         assertTrue(b2.isAvailable());
-        lc.borrowBook("Human Anatomy");
+//        lc.borrowBook("Human Anatomy");
     }
 }
